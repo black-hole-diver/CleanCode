@@ -1,0 +1,2 @@
+Lecture Note 1 = start
+Lecture Note 2 = lists
